@@ -9,6 +9,8 @@ In this lab, you build and evaluate various QA pipelines for financial documents
 
 The goal of this lab is to build a Question Answer (QA) pipeline for financial documents that financial analysts can use to inform their research by processing tons of text based data quickly, and pulling out key insights. 
 
+- Note your results may be different from the solutions. Evaluate your results. 
+
 Steps: 
 1. Build an initial pipeline using a single text document `financial_context`
 2. Test a few pretrained models and select one to use for this task
@@ -17,7 +19,6 @@ Steps:
 5. BONUS: Extend the pipeline to a larger set of documents from the FinQA data 
 
 
-Note your results may be different from the solutions. Evaluate your results. 
 ---
 
 ## Materials We Provide
