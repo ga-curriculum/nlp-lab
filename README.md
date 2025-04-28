@@ -31,10 +31,16 @@ Steps:
 
 ---
 
+## References
+- [FinQA](https://finqasite.github.io/index.html)
+- [Hugging Face Question Answering Pipeline](https://huggingface.co/docs/transformers/v4.51.3/en/main_classes/pipelines#transformers.QuestionAnsweringPipeline)
+
+
+--
+
 ## Prerequisites
 <!--- This section explains the relevant prerequisites; in other words, what do students need to know to be able to benefit and perform the tasks required in this activity/lab? List all relevant skills or prior learning objectives --->
 
 **Before this activity, students should already be able to**:
 - Explore Hugging Face for NLP models 
 - Create an NLP pipeline in Hugging Face
-
